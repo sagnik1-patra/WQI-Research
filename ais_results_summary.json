@@ -1,0 +1,14 @@
+{
+    "algorithm": "Artificial Immune System Feature Selection + Random Forest Regressor",
+    "dataset_path": "C:\\Users\\NXTWAVE\\Downloads\\WQI Research\\archive (1)\\Results_MADE.csv",
+    "total_rows": 295,
+    "total_features": 9,
+    "selected_features": [
+        "Conductivity (mho/ Cm)"
+    ],
+    "r2_score": 0.9575346312793208,
+    "mae": 7.5512840263972505,
+    "rmse": 30.301101314630827,
+    "mape": 2.9141995380235843,
+    "output_folder": "C:\\Users\\NXTWAVE\\Downloads\\WQI Research"
+}

@@ -1,0 +1,29 @@
+{
+    "algorithm": "Quantum-behaved Particle Swarm Optimization Feature Selection + Random Forest Regressor",
+    "dataset_path": "C:\\Users\\NXTWAVE\\Downloads\\WQI Research\\archive (1)\\Results_MADE.csv",
+    "total_rows": 295,
+    "total_features": 9,
+    "selected_features": [
+        "Conductivity (mho/ Cm)"
+    ],
+    "r2_score": 0.9575346312793208,
+    "mae": 7.5512840263972505,
+    "rmse": 30.301101314630827,
+    "mape": 2.9141995380235843,
+    "output_folder": "C:\\Users\\NXTWAVE\\Downloads\\WQI Research",
+    "saved_files": [
+        "qpso_wqi_predictions.csv",
+        "qpso_wqi_class_predictions.csv",
+        "qpso_accuracy_metrics.csv",
+        "qpso_selected_features.csv",
+        "qpso_results_summary.json",
+        "qpso_actual_vs_predicted.png",
+        "qpso_fitness_graph.png",
+        "qpso_feature_selection.png",
+        "qpso_accuracy_graph.png",
+        "qpso_confusion_matrix.png",
+        "qpso_correlation_heatmap.png",
+        "qpso_model.pkl",
+        "qpso_scaler.pkl"
+    ]
+}
