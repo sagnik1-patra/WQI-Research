@@ -1,0 +1,29 @@
+{
+    "algorithm": "Ant Lion Optimization Algorithm Feature Selection + Random Forest Regressor",
+    "dataset_path": "C:\\Users\\NXTWAVE\\Downloads\\WQI Research\\archive (1)\\Results_MADE.csv",
+    "total_rows": 295,
+    "total_features": 9,
+    "selected_features": [
+        "Conductivity (mho/ Cm)"
+    ],
+    "r2_score": 0.9575346312793208,
+    "mae": 7.5512840263972505,
+    "rmse": 30.301101314630827,
+    "mape": 2.9141995380235843,
+    "output_folder": "C:\\Users\\NXTWAVE\\Downloads\\WQI Research",
+    "saved_files": [
+        "aloa_wqi_predictions.csv",
+        "aloa_wqi_class_predictions.csv",
+        "aloa_accuracy_metrics.csv",
+        "aloa_selected_features.csv",
+        "aloa_results_summary.json",
+        "aloa_actual_vs_predicted.png",
+        "aloa_fitness_graph.png",
+        "aloa_feature_selection.png",
+        "aloa_accuracy_graph.png",
+        "aloa_confusion_matrix.png",
+        "aloa_correlation_heatmap.png",
+        "aloa_model.pkl",
+        "aloa_scaler.pkl"
+    ]
+}
